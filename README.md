@@ -33,7 +33,7 @@
 #### Cloning the project
 
 ```sh
-$ git clone https://github.com/NinjaAzul/barbecues.git
+$ git clone https://github.com/igorabrandao/clepher-challenge
 
 ```
 
