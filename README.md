@@ -19,6 +19,8 @@
 
 <a href="https://alpha-vantage-two.vercel.app/">Link APP Deployed</a>
 
+<p>Note: the API is limited to 25 requests per day.</p>
+
 # ✅ Technologies
 
 - [React](https://pt-br.reactjs.org/docs/getting-started.html)
